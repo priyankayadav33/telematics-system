@@ -1,0 +1,6 @@
+com\telematics\repository\VehicleRepository.class
+com\telematics\controller\VehicleController.class
+com\telematics\TelematicsSystemApplication.class
+com\telematics\service\VehicleService.class
+com\telematics\model\Vehicle$VehicleBuilder.class
+com\telematics\model\Vehicle.class
